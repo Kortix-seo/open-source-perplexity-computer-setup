@@ -1,8 +1,8 @@
 # Open-source Perplexity Computer alternative: self-host the general-purpose worker you own
 
-Kortix is open source. It is the AI Operating System, and this repository is a setup and self-hosting guide for teams that want a Perplexity Computer-style general-purpose worker they own instead of rent.
+Kortix is open source. It is the open-source CompanyOS, and this repository is a setup and self-hosting guide for teams that want a Perplexity Computer-style general-purpose worker they own instead of rent.
 
-Perplexity Computer is a capable cloud agent, and Perplexity's own pages document it as a hosted product for Pro and Max subscribers. This repo covers the other path: the same category of work, running on your infrastructure, with any model and your own keys. The code is Kortix; this is the setup guide around it. For the full head-to-head, read the [Kortix and Perplexity Computer comparison](https://opensourceperplexitycomputer.com).
+Perplexity Computer is a capable cloud agent, and Perplexity's own pages document it as a hosted product for Pro and Max subscribers. This repo covers the other path: the same category of work, running on your infrastructure, with any model and your own keys. The code is Kortix; this is the setup guide around it. For the full head-to-head, read the [Kortix and Perplexity Computer comparison](https://opensourceperplexitycomputer.com), the plain answer to [what a Perplexity Computer is](https://opensourceperplexitycomputer.com/what-is-a-perplexity-computer), and what a [GitHub search for Perplexity actually returns](https://opensourceperplexitycomputer.com/open-source-perplexity-computer-github).
 
 ## What this repository contains
 
